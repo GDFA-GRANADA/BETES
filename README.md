@@ -1,3 +1,3 @@
 # BETES
 
-BETES (Baroclinic Ekman Transport Equation Solver) is a 
+BETES (**B**aroclinic **E**kman **T**ransport **E**quation **S**olver) is a numerical code to simulate wind-driven boundary layer currents.
