@@ -1,6 +1,6 @@
 # BETES
 
-BETES (or **B**aroclinic **E**kman **T**ransport **E**quation **S**olver) is a numerical code to simulate wind-driven boundary layer currents. The BETES code computes the prototype system of ODE:
+BETES (or **B**aroclinic **E**kman **T**ransport **E**quation **S**olver) is an in-house code developed to simulate wind-driven boundary layer currents by computing the boundary-value problem:
 ```math
 \dfrac{\text{d}}{\text{d}z}\left(-K\dfrac{\text{d}\mathbf{u}}{\text{d}z}\right) = -f\mathbf{u}^\perp - \dfrac{1}{\rho}\nabla p_a - \dfrac{g}{\rho}\int_z^0\nabla\rho\,\text{d}z
 ```
