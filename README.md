@@ -13,10 +13,9 @@ The archive `datos_GoC_medios.mat` contains experimental results taken from Maza
 In folder _doc_ we find a pdf to describe roughly the numerical scheme used for BETES.
 
 # Programming language and installation
-You need MATLAB (R2020b or later) to run BETES.
+You need MATLAB (version R2020b or later) to run BETES.
 
 # List of Contributors
-
 The list of the people who contributed to BETES are the following:
 - **Victor Javier Llorente Lázaro** (Technical University of Madrid)
 - **Manuel Diez Minguito** (University of Granada)
